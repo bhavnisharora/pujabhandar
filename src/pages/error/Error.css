@@ -1,0 +1,24 @@
+.error-container {
+  margin-top: 30px;
+  background-image: url(/src/assets/images/404.jpg);
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100vh;
+  width: 100vw;
+}
+
+@media (max-width: 768px) {
+  .error-container {
+    margin-top: 70px;
+    height: 300px;
+    width: 100%;
+  }
+}
+@media (min-width: 1025px) {
+  .error-container {
+    width: 50vw;
+  }
+}

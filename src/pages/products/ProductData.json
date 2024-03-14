@@ -1,0 +1,135 @@
+[
+  {
+    "id": 112233,
+    "category": "bracelets",
+    "name": "O.N.S. (Silver Patti) Bracelet - Child",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/bracelets/1.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/bracelets/2.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+
+  {
+    "id": 3,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/bracelets/3.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+
+  {
+    "id": 4,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/bracelets/4.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/bracelets/5.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/bracelets/6.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+
+  {
+    "id": 7,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/items/1.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/items/2.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": 9,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/items/3.jpg",
+    "shipping": 1,
+    "quantity": 0
+  },
+  {
+    "id": 10,
+    "category": "men's sneaker",
+    "name": "ultraboost 22 shoes",
+    "seller": "addidas",
+    "price": 230,
+    "stock": 20,
+    "ratings": 4,
+    "ratingsCount": 3457,
+    "img": "src/assets/items/4.jpg",
+    "shipping": 1,
+    "quantity": 0
+  }
+]
